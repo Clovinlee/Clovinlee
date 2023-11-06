@@ -4,8 +4,6 @@
 - 💞️ I’m looking for new opportunity to broaden my horizon.
 - 📫 You can contact me through my email : chrisantosinatra6@gmail.com or my linked in https://id.linkedin.com/in/chrisanto-sinatra
 
-<a href="clovinlee.github.io" target="_blank">my github.io page</a>
-
 <!---
 Clovinlee/Clovinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
