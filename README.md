@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chrisanto Sinatra. Im a graduate of Information System bachelor's degree from ISTTS Surabaya.
+- 👋 Hi, my name is Chrisanto Sinatra. I'm a graduate of Information System bachelor's degree from ISTTS Surabaya.
 - 👀 I’m interested in software development.
-- 🌱 I specialize in full stack development with : Vue, React, Go, JS, TS, and Java.
+- 🌱 I specialize in full stack development with : Vue, Flutter, React, Go, JS, TS, and Java.
 - 💞️ I’m looking for new opportunity to broaden my horizon.
 - 📫 You can contact me through my email : chrisantosinatra6@gmail.com or using any of the link below.
 
