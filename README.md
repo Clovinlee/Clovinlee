@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,kotlin,html,css,js,jquery,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 #### Back End 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,java,spring,go,laravel,php,graphql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,laravel,php,java,spring,go,graphql,aws)](https://skillicons.dev)
 
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
