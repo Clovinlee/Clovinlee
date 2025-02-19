@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Chrisanto Sinatra. I'm a graduate of Information System bachelor's degree from ISTTS Surabaya.
 - 👀 I’m interested in Software Development.
 - 🌱 I specialize in Full Stack Development with : Vue, Flutter, Next, MERN, PHP, Laravel, NestJS.
-- 💞️ I’m looking for new opportunity to broaden my horizon.
+- 🎯 I’m looking for new opportunity to broaden my horizon.
 - 📫 You can contact me through my email : chrisantosinatra6@gmail.com or using any of the link below.
 
 
