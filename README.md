@@ -12,10 +12,10 @@
 
 ## Tech Stack :computer:
 #### Front End
-[![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,kotlin,html,css,js,jquery,tailwind,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,html,css,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 #### Back End 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,spring,java,ts,nestjs,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,spring,java,ts,nestjs,js,go)](https://skillicons.dev)
 
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,graphql)](https://skillicons.dev)
