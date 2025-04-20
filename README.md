@@ -15,13 +15,13 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,kotlin,html,css,js,jquery,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 #### Back End 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,laravel,php,java,spring,go,graphql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,spring,java,ts,nestjs,go)](https://skillicons.dev)
 
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,graphql)](https://skillicons.dev)
 
 #### Other
-[![My Skills](https://skillicons.dev/icons?i=docker,cs,unity,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,python,unity,jenkins)](https://skillicons.dev)
 
 
 
