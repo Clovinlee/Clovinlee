@@ -15,11 +15,11 @@
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,graphql)](https://skillicons.dev)
 
-#### Front End
-[![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,html,css,tailwind,bootstrap,materialui)](https://skillicons.dev)
-
 #### Other
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git,python,unity)](https://skillicons.dev)
+
+#### Front End
+[![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,html,css,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 <!---
 Clovinlee/Clovinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
