@@ -1,29 +1,25 @@
-- 👋 Hi, my name is Chrisanto Sinatra. I'm a graduate of Information System bachelor's degree from ISTTS Surabaya.
-- 👀 I’m interested in Software Development.
-- 🌱 I specialize in Full Stack Development with : Vue, Flutter, Next, MERN, PHP, Laravel, NestJS.
-- 🎯 I’m always looking for new opportunity to broaden my horizon.
-- 📫 You can contact me through my email : chrisantosinatra6@gmail.com or using any of the link below.
-
-
+- 👋 Hi, my name is Chrisanto Sinatra. I’m a backend developer with a degree in Information Systems from ISTTS Surabaya.
+- 👀 I’m passionate about building scalable and reliable backend systems.
+- 🛠️ I specialize in backend development using Laravel and Spring.
+- 🎯 I’m always open to new opportunities to grow and contribute to impactful projects.
+- 📫 You can reach me via email at chrisantosinatra6@gmail.com or through any of the links below.
 
 [![Linkedin: Chrisanto](https://img.shields.io/badge/-Chrisanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisanto-sinatra/)](https://www.linkedin.com/in/chrisanto-sinatra/)
 [![Personal Web](https://img.shields.io/badge/-Personal%20Web-black?style=flat-square&logo=github&logoColor=white&link=https://clovinlee.github.io/)](https://clovinlee.github.io/)
 <a href='https://leetcode.com/u/Clovinlee/' target='_blank'>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)</a>
 
 ## Tech Stack :computer:
-#### Front End
-[![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,html,css,tailwind,bootstrap,materialui)](https://skillicons.dev)
-
 #### Back End 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,spring,java,ts,nestjs,js,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,spring,nestjs,go)](https://skillicons.dev)
 
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,graphql)](https://skillicons.dev)
 
+#### Front End
+[![My Skills](https://skillicons.dev/icons?i=vue,next,react,flutter,html,css,tailwind,bootstrap,materialui)](https://skillicons.dev)
+
 #### Other
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,python,unity,jenkins)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,python,unity)](https://skillicons.dev)
 
 <!---
 Clovinlee/Clovinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
